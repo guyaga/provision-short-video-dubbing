@@ -1,0 +1,32 @@
+{
+    "source_video": "input/video.mp4",
+    "source_srt": null,
+    "target_language": "es-419",
+    "target_language_name": "Latin American Spanish",
+    "output_dir": "output",
+
+    "gemini_model": "gemini-3.1-pro",
+
+    "elevenlabs_voice_id": "pNInz6obpgDQGcFmaJgB",
+    "elevenlabs_model": "eleven_multilingual_v2",
+
+    "subtitle_font": "Arial",
+    "subtitle_size": 20,
+    "subtitle_primary_color": "&H00FFFFFF",
+    "subtitle_secondary_color": "&H000000FF",
+    "subtitle_outline_color": "&H00000000",
+    "subtitle_back_color": "&H80000000",
+    "subtitle_bold": true,
+    "subtitle_italic": false,
+    "subtitle_outline_width": 2,
+    "subtitle_shadow_offset": 1,
+    "subtitle_alignment": 2,
+    "subtitle_margin_l": 10,
+    "subtitle_margin_r": 10,
+    "subtitle_margin_v": 30,
+
+    "video_width": 1920,
+    "video_height": 1080,
+
+    "rtl": false
+}
